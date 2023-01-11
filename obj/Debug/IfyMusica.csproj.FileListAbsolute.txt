@@ -1,0 +1,16 @@
+C:\Users\DECAGON\source\repos\IfyMusica\bin\Debug\IfyMusica.exe.config
+C:\Users\DECAGON\source\repos\IfyMusica\bin\Debug\IfyMusica.exe
+C:\Users\DECAGON\source\repos\IfyMusica\bin\Debug\IfyMusica.pdb
+C:\Users\DECAGON\source\repos\IfyMusica\bin\Debug\Interop.WMPLib.dll
+C:\Users\DECAGON\source\repos\IfyMusica\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DECAGON\source\repos\IfyMusica\obj\Debug\IfyMusica.csproj.AssemblyReference.cache
+C:\Users\DECAGON\source\repos\IfyMusica\obj\Debug\IfyMusica.csproj.SuggestedBindingRedirects.cache
+C:\Users\DECAGON\source\repos\IfyMusica\obj\Debug\Interop.WMPLib.dll
+C:\Users\DECAGON\source\repos\IfyMusica\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DECAGON\source\repos\IfyMusica\obj\Debug\IfyMusica.csproj.ResolveComReference.cache
+C:\Users\DECAGON\source\repos\IfyMusica\obj\Debug\IfyMusica.Form1.resources
+C:\Users\DECAGON\source\repos\IfyMusica\obj\Debug\IfyMusica.Properties.Resources.resources
+C:\Users\DECAGON\source\repos\IfyMusica\obj\Debug\IfyMusica.csproj.GenerateResource.cache
+C:\Users\DECAGON\source\repos\IfyMusica\obj\Debug\IfyMusica.csproj.CoreCompileInputs.cache
+C:\Users\DECAGON\source\repos\IfyMusica\obj\Debug\IfyMusica.exe
+C:\Users\DECAGON\source\repos\IfyMusica\obj\Debug\IfyMusica.pdb
